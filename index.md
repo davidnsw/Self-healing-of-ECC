@@ -4,7 +4,24 @@ You can use the [editor on GitHub](https://github.com/davidnsw/Self-healing-of-E
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Methods
+
+#### Machine learning methods comparative analysis
+
+![image-20220321043910940](https://raw.githubusercontent.com/davidnsw/2020images/1a34dc602c2c8e89389af373aad3812bc3e2eea1/Rsqure.png)
+
+Average R 2 for performance of self-healing of ECC on all machine learn-
+ing models
+
+
+
+#### BPNN optimized with EA in structured tree and list
+
+![](https://raw.githubusercontent.com/davidnsw/2020images/master/BPNN%20Chematic%20EC.png)
+
+![](https://raw.githubusercontent.com/davidnsw/2020images/master/EA-BPNN.png)
+
+Appendix B
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -61,9 +78,15 @@ df = pd.DataFrame(statcs,columns = ['methods','MAE','RMSE','R2'])
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Data
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davidnsw/Self-healing-of-ECC/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
+
+### Code
+
+Appendix A
 
 ### Support or Contact
 
