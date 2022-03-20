@@ -4,7 +4,7 @@ The aim of this research is to evaluate the self-healing behaviour of ECC when i
 
 ### Methods
 
-#### Machine learning methods comparative analysis
+#### **Machine learning methods comparative analysis**
 
 ![image-20220321043910940](https://raw.githubusercontent.com/davidnsw/2020images/1a34dc602c2c8e89389af373aad3812bc3e2eea1/Rsqure.png)
 
@@ -14,7 +14,7 @@ The comparative analysis showed all 13 models came with expected accuracy and pr
 
 
 
-#### BPNN optimized with EA in structured tree and list
+#### **BPNN optimized with EA in structured tree and list**
 
 ![](https://raw.githubusercontent.com/davidnsw/2020images/master/BPNN%20Chematic%20EC.png)
 
@@ -26,9 +26,9 @@ Especially, the EA-based BPNN in structured tree model ensures genetic diversity
 
 ### Data
 
-[Click here](https://github.com/davidnsw/Self-healing-of-ECC/blob/634cb4597fe66e291a79affb4fa31843f78ce682/Crack.txt) to download the crack data this project. The txt file contains the correspondence between the mix composition and the cracks, which can be called in by python directly (source code provided). For details please refer to [Appendix A of this reference](https://github.com/davidnsw/Self-healing-of-ECC/blob/634cb4597fe66e291a79affb4fa31843f78ce682/Main.pdf).
+**[Click here](https://github.com/davidnsw/Self-healing-of-ECC/blob/634cb4597fe66e291a79affb4fa31843f78ce682/Crack.txt) to download the crack data this project.** The txt file contains the correspondence between the mix composition and the cracks, which can be called in by python directly (source code provided). For details please refer to [Appendix A of this reference](https://github.com/davidnsw/Self-healing-of-ECC/blob/634cb4597fe66e291a79affb4fa31843f78ce682/Main.pdf).
 
-#### Reference 1
+#### **Reference 1**
 
 If using or improving the source code in this project, please add the following references
 
@@ -50,7 +50,7 @@ Environment, University of Newcastle, Australia, 2021.
 
 ---
 
-#### Reference 2
+#### **Reference 2**
 
 If you use the above experimental ideas or use the relevant data of this project, please use the following citations:
 
@@ -67,7 +67,7 @@ If you use the above experimental ideas or use the relevant data of this project
  } 
 ```
 
-#### SEM / XRD Data
+
 
 ---
 
